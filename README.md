@@ -21,6 +21,6 @@ the above condition. Post this, the script fetches the data an recronstructs
 it in a way that it is comma delimited so that it can be output into a 
 csv file using the .write() function
 
-The script returns a csv file containing the CSV of the the Subject DN, SHA256 fingerprints and validity start and end dates 
+The script returns a csv (csvfile2) file containing the CSV of the the Subject DN, SHA256 fingerprints and validity start and end dates 
 for all trusted (unexpired) X.509 certificates associated with the 
 censys.io domain
