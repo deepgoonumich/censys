@@ -1,7 +1,6 @@
-# censys
-Python code that scans censys X.509 Certificates
-
 # Python Code to query the Censys public scan database
+
+Python code that scans censys X.509 Certificates
 
 Run it on terminal using command "python demo.py"
 
