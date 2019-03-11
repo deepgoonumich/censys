@@ -1,4 +1,4 @@
-# Python Code to query the Censys public scan database
+# Python Code to query the scan Censys public database
 
 Python code that scans censys X.509 Certificates
 
